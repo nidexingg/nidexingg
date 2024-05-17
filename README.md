@@ -34,7 +34,12 @@
   <p>Front-end technologies:</p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vue,react,vite,vuetify,nuxt,js,ts,tailwind,jquery,supabase,git,md,kotlin,androidstudio,vercel,netlify" />
+      <img src="https://skillicons.dev/icons?i=vue,react,vite,vuetify,nuxt,js,ts,tailwind" />
+    </a>
+  </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=jquery,supabase,git,md,kotlin,androidstudio,vercel,netlify" />
     </a>
   </p>
   <p>Back-end technologies:</p>
