@@ -14,14 +14,14 @@
 </div>
 
 <div align="center">
-  <strong>Social Contacts</strong>
+  <strong>Social Connect</strong>
 </div>
 <div align="center">
   
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/nidexingg)
 [![WeChat](https://img.shields.io/badge/微信-330F63?style=for-the-badge&logo=wechat&logoColor=green)]([https://gitlab.com/nidexingg](https://u.wechat.com/kDcnagXT_h-CqivmpasjGpg?s=1))
 [![Telegram](https://img.shields.io/badge/Telegram-330F63?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/guyswhoisthis)
-[![Twitter](https://img.shields.io/badge/Twitter-330F63?style=for-the-badge&logo=twitter&logoColor=blue)](https://x.com/nidexingg)
+[![Twitter](https://img.shields.io/badge/Twitter-330F63?style=for-the-badge&logo=x&logoColor=black)](https://x.com/nidexingg)
 
 [![license](https://img.shields.io/github/license/nidexingg/localsend.svg?style=flat-square)](LICENSE) 
 [![Made with hearth by nidexingg](https://img.shields.io/badge/Made%20with%20%E2%99%A5%20by-nidexingg-ff1414.svg?style=flat-square)](https://github.com/nidexingg)
