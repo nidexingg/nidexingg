@@ -3,7 +3,10 @@
     <img src="https://weattend.vercel.app/_nuxt/192.DozxKRtY.png" alt="Mariazona" width="125" height="125">
   </a>
   <br>
-  🙋🏻‍♀️ Hey Developer ! Welcome to my GitHub! 🙏🏻
+  🙋🏻‍♀️
+  
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=04F797&background=FFFFFF00&random=true&width=435&lines=+Hey+Developer+!+Welcome+to+my+GitHub!+;%E1%9E%9F%E1%9E%BD%E1%9E%9F%E1%9F%92%E1%9E%8F%E1%9E%B8+Developer+!+%E1%9E%9F%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9E%82%E1%9E%98%E1%9E%93%E1%9F%8D%E1%9E%98%E1%9E%80%E1%9E%80%E1%9E%B6%E1%9E%93%E1%9F%8B+GitHub!+;%E6%82%A8%E5%A5%BD+Developer+!+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub!+)](https://git.io/typing-svg)
+  
 </h1>
 
 <div align="center">
