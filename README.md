@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/dec0dOS/amazing-github-template">
+  <a href="https://github.com/nidexingg">
     <img src="https://weattend.vercel.app/_nuxt/192.DozxKRtY.png" alt="Mariazona" width="125" height="125">
   </a>
   <br>
