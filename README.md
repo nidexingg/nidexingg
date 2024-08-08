@@ -42,7 +42,7 @@
       <img src="https://skillicons.dev/icons?i=jquery,supabase,git,md,kotlin,androidstudio,vercel,netlify" />
     </a>
   </p>
-  <p>Back-end technologies:</p>
+  <p>Back-end, DB & Cloud technologies:</p>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,supabase,aws,gcp,docker" />
