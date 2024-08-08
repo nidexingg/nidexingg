@@ -62,13 +62,3 @@
   </p>
 </div>
 
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="contributions-snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidexingg&theme=neon&border_radius=15&show_icons=true&locale=en&layout=compact" alt="nidexingg" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nidexingg&theme=neon&border_radius=15" alt="nidexingg" /></p>
-
