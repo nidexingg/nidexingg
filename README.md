@@ -1,64 +1,58 @@
 <h1 align="center">
-  <a href="https://github.com/nidexingg">
-    <img src="https://cloudmariazona.netlify.app/img/xing.png" alt="Mariazona" width="125" height="125">
-  </a>
-  <br>
-  🙋🏻‍♂️
   
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=04F797&background=FFFFFF00&random=true&width=435&lines=+Hey+Developer+!+Welcome+to+my+GitHub!+;%E1%9E%9F%E1%9E%BD%E1%9E%9F%E1%9F%92%E1%9E%8F%E1%9E%B8+Developer+!+%E1%9E%9F%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9E%82%E1%9E%98%E1%9E%93%E1%9F%8D%E1%9E%98%E1%9E%80%E1%9E%80%E1%9E%B6%E1%9E%93%E1%9F%8B+GitHub!+;%E6%82%A8%E5%A5%BD+Developer+!+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub!+)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&pause=1000&color=F70957&background=F5FF0000&center=true&vCenter=true&random=true&width=435&lines=%E1%9E%9F%E1%9E%BC%E1%9E%98%E1%9E%9F%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9E%82%E1%9E%98%E1%9E%93%E1%9F%8D%E1%9E%98%E1%9E%80%E1%9E%80%E1%9E%B6%E1%9E%93%E1%9F%8B+GitHub+%E1%9E%9A%E1%9E%94%E1%9E%9F%E1%9F%8B%E1%9E%81%E1%9F%92%E1%9E%89%E1%9E%BB%E1%9F%86;Welcome+to+my+GitHub;+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub;Bienvenue+sur+mon+GitHub;Bienvenido+a+mi+GitHub;+%E7%A7%81%E3%81%AEGitHub%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D;%EB%82%B4+GitHub%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4;Willkommen+auf+meinem+GitHub;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+GitHub;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B+%D8%A8%D9%83%D9%85+%D9%81%D9%8A+GitHub+%D8%A7%D9%84%D8%AE%D8%A7%D8%B5+%D8%A8%D9%8A)](https://git.io/typing-svg)
+   
+   Greeting to all talented devs for coming here.
   
 </h1>
 
 <div align="center">
-  <h2>I'm Chandara H. Wei (@nidexingg)</h2>
-  <h3>A Cambodian-born Web Application Developer with MEVN Stack and UX/UI Designer.</h3>
-  <p>Nothing much... Just an ordinary tech enthusiast and software developer/contributor.</p>
-
+  
+  ![](https://profile-counter.glitch.me/nidexingg/count.svg)
 </div>
 
 <div align="center">
-  <strong>Social Connect</strong>
+  <h3>Social networks:</h3>
 </div>
 <div align="center">
   
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/nidexingg)
-[![WeChat](https://img.shields.io/badge/微信-330F63?style=for-the-badge&logo=wechat&logoColor=green)]([https://gitlab.com/nidexingg](https://u.wechat.com/kDcnagXT_h-CqivmpasjGpg?s=1))
-[![Telegram](https://img.shields.io/badge/Telegram-330F63?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/guyswhoisthis)
-[![Twitter](https://img.shields.io/badge/Twitter-330F63?style=for-the-badge&logo=x&logoColor=black)](https://x.com/nidexingg)
-
-[![license](https://img.shields.io/github/license/nidexingg/localsend.svg?style=flat-square)](LICENSE) 
-[![Made with hearth by nidexingg](https://img.shields.io/badge/Made%20with%20%E2%99%A5%20by-nidexingg-ff1414.svg?style=flat-square)](https://github.com/nidexingg)
+![](https://img.shields.io/badge/GitLab--blue?style=social&labelColor=white&logo=gitlab&logoSize=auto&link=https%3A%2F%2Fgitlab.com%2Fnidexingg)
+![](https://img.shields.io/badge/WeChat%20%E5%BE%AE%E4%BF%A1--blue?style=social&labelColor=white&logo=wechat&logoSize=auto&link=https%3A%2F%2Fu.wechat.com%2FkDcnagXT_h-CqivmpasjGpg%3Fs%3D1)
+![](https://img.shields.io/badge/Telegram--blue?style=social&labelColor=white&logo=telegram&logoSize=auto&link=t.me%2Fhchchndr)
+![](https://img.shields.io/badge/Bluesky--blue?style=social&labelColor=white&logo=bluesky&logoSize=auto&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fnidexingg.com)
+![](https://img.shields.io/badge/Twitter--blue?style=social&labelColor=white&logo=x&logoSize=auto&link=x.com%2Fnidexingg)
+![](https://img.shields.io/badge/Mastodon--blue?style=social&labelColor=white&logo=mastodon&logoSize=auto&link=https%3A%2F%2Fmastodon.social%2F%40nidexingg)
 </div>
 <div align="center">
   <h3>Experience of Languages and Tools:</h3>
   <p>Front-end technologies:</p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vue,react,vite,vuetify,nuxt,js,ts,tailwind" />
-    </a>
-  </p>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=jquery,supabase,git,md,kotlin,androidstudio,vercel,netlify" />
+      <img src="https://skillicons.dev/icons?i=vite,vue,nuxt,react,nextjs,svelte,js,ts,tailwind" />
     </a>
   </p>
   <p>Back-end, DB & Cloud technologies:</p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,supabase,aws,gcp,docker" />
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,supabase,docker" />
     </a>
   </p>
   <p>UX/UI Design tools and other short-term experiences:</p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=photoshop,figma,xd,unity,cpp" />
+      <img src="https://skillicons.dev/icons?i=photoshop,figma,xd,unity,python,cpp" />
     </a>
   </p>
   <p>Operating Systems:</p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,kali" />
+      <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,mint,kali" />
     </a>
   </p>
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=nidexingg&theme=burnt-neon&border_radius=10&locale=zh_Hans&short_numbers=true&date_format=j%20M%5B%20Y%5D)
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nidexingg&title=-Reviews&theme=onedark)
+  ![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=nidexingg&theme=rogue)
+
 </div>
 
