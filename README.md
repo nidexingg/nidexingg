@@ -8,20 +8,20 @@
 
 <div align="center">
   
-  ![](https://profile-counter.glitch.me/nidexingg/count.svg)
+  ![GitHub followers](https://img.shields.io/github/followers/nidexingg?style=flat&logo=github&color=05122A&labelColor=05122A)
+  ![Audiences](https://komarev.com/ghpvc/?username=nidexingg&style=flat&labelolor=05122A&color=05122A)
 </div>
-
 <div align="center">
   <h3>Social networks:</h3>
 </div>
 <div align="center">
   
-![](https://img.shields.io/badge/GitLab--blue?style=social&labelColor=white&logo=gitlab&logoSize=auto&link=https%3A%2F%2Fgitlab.com%2Fnidexingg)
-![](https://img.shields.io/badge/WeChat%20%E5%BE%AE%E4%BF%A1--blue?style=social&labelColor=white&logo=wechat&logoSize=auto&link=https%3A%2F%2Fu.wechat.com%2FkDcnagXT_h-CqivmpasjGpg%3Fs%3D1)
-![](https://img.shields.io/badge/Telegram--blue?style=social&labelColor=white&logo=telegram&logoSize=auto&link=t.me%2Fhchchndr)
-![](https://img.shields.io/badge/Bluesky--blue?style=social&labelColor=white&logo=bluesky&logoSize=auto&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fnidexingg.com)
-![](https://img.shields.io/badge/Twitter--blue?style=social&labelColor=white&logo=x&logoSize=auto&link=x.com%2Fnidexingg)
-![](https://img.shields.io/badge/Mastodon--blue?style=social&labelColor=white&logo=mastodon&logoSize=auto&link=https%3A%2F%2Fmastodon.social%2F%40nidexingg)
+[![GitLab](https://img.shields.io/badge/GitLab--blue?style=social&labelColor=white&logo=gitlab&logoSize=auto&link=https%3A%2F%2Fgitlab.com%2Fnidexingg)](https://gitlab.com/nidexingg)
+[![WeChat](https://img.shields.io/badge/WeChat%20%E5%BE%AE%E4%BF%A1--blue?style=social&labelColor=white&logo=wechat&logoSize=auto&link=https%3A%2F%2Fu.wechat.com%2FkDcnagXT_h-CqivmpasjGpg%3Fs%3D1)](https://u.wechat.com/kDcnagXT_h-CqivmpasjGpg?s=1)
+[![Telegram](https://img.shields.io/badge/Telegram--blue?style=social&labelColor=white&logo=telegram&logoSize=auto&link=t.me%2Fhchchndr)](https://t.me/hchchndr)
+[![Bluesky](https://img.shields.io/badge/Bluesky--blue?style=social&labelColor=white&logo=bluesky&logoSize=auto&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fnidexingg.com)](https://bsky.app/profile/nidexingg.com)
+[![Twitter](https://img.shields.io/badge/Twitter--blue?style=social&labelColor=white&logo=x&logoSize=auto&link=x.com%2Fnidexingg)](https://x.com/nidexingg)
+[![Mastodon](https://img.shields.io/badge/Mastodon--blue?style=social&labelColor=white&logo=mastodon&logoSize=auto&link=https%3A%2F%2Fmastodon.social%2F%40nidexingg)](https://mastodon.social/@nidexingg)
 </div>
 <div align="center">
   <h3>Experience of Languages and Tools:</h3>
@@ -51,7 +51,6 @@
   </p>
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=nidexingg&theme=burnt-neon&border_radius=10&locale=zh_Hans&short_numbers=true&date_format=j%20M%5B%20Y%5D)
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nidexingg&title=-Reviews&theme=onedark)
   ![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=nidexingg&theme=rogue)
 
 </div>
