@@ -50,7 +50,6 @@
     </a>
   </p>
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=nidexingg&theme=burnt-neon&border_radius=10&locale=zh_Hans&short_numbers=true&date_format=j%20M%5B%20Y%5D)
   ![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=nidexingg&theme=rogue)
 
 </div>
